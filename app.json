@@ -1,0 +1,12 @@
+{
+  "name": "face-swiper",
+  "displayName": "face-swiper",
+  "expo": {
+    "name": "face-swiper",
+    "slug": "face-swiper",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
